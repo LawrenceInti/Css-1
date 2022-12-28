@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+.a{
+  line-height: 1cm;color: olive;
+}
+.b{
+    text-decoration: line-through;
+    font-size: medium;
+    font-weight: bold;
+}
+.c{
+  background-color: yellow;
+  font-size: medium;
+  font-weight: bold;
+}
+.d{
+    font-style: italic;font-variant-position: ;
+    text-decoration: underline;
+}
+.e{
+    letter-spacing: 5px;
+}
+.f{
+    background-color: yellow;
+}
+.g{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+}
